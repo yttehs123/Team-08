@@ -22,12 +22,12 @@
 ## Overview
 ----
 #### **Requirements:**
-- Need to create mentor matching platform
+- Need to create mentor a matching Alforithm
 - Currently only students' numbers are considered to match it to the mentor
-- Need more sophisticated way to match metor to mentees
+- Need a more comprehensive and sophisticated way to match metor to mentees
 
 #### **Inputs to consider:**
-Some of the parameters to consider to make an effective match:
+Some of the parameters to make an effective match as required by the organisation:
 
 - Ethnicity
 - Industry Specialization
@@ -35,7 +35,8 @@ Some of the parameters to consider to make an effective match:
 - Location
 - Gender
 
-Apart from above generic parameters, there are some tags attached to each profile which also can be considered to create a match
+Apart from the required parameters, additional tags are attached to each profile which can also be considered to create a match.
+
 
 <br />
 
